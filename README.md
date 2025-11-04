@@ -98,7 +98,7 @@ Generates mAP, IoU, FPS metrics and visual attention maps.
 7. Deploy to edge device
 python deployment/run_on_device.py
 Runs quantized model on ESP32-S3 or similar smart-glasses hardware.
-
+```
 ## 📄 Citation
 
 If you use this work, please cite:
